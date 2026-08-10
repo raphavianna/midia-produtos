@@ -1,0 +1,49 @@
+name: Gerar recortes, índice e galeria
+
+# Dispara quando uma imagem nova entra em originais/ (inclusive pelo botao
+# "Add file -> Upload files" da interface web do GitHub) ou quando a config muda.
+# Nao dispara com as mudancas que o proprio robo faz em cdn/, indice.csv e
+# index.html, entao nao ha risco de loop.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'originais/**'
+      - 'midia.config.json'
+      - 'bin/**'
+      - 'package.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-midia
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Publicar o que mudou
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cdn indice.csv index.html .midia-cache.json
+          if git diff --staged --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "Regenera recortes, indice e galeria"
+            git push
+          fi

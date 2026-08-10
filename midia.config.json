@@ -1,0 +1,25 @@
+{
+  "repositorio": "raphavianna/midia-produtos",
+  "branch": "main",
+
+  "_comentario_formatos": "Cada formato vira um arquivo por imagem de origem. largura/altura em pixels.",
+  "formatos": {
+    "quadrado-1x1": { "largura": 1080, "altura": 1080 },
+    "vertical-4x5": { "largura": 1080, "altura": 1350 },
+    "story-9x16": { "largura": 1080, "altura": 1920 },
+    "wide-16x9": { "largura": 1200, "altura": 675 },
+    "thumb": { "largura": 400, "altura": 400 }
+  },
+
+  "_comentario_ajuste": "contain = cabe inteira, sobra vira fundo (nao corta o produto). cover = preenche o quadro, corta as bordas.",
+  "ajustePorPasta": {
+    "produtos": "contain",
+    "campanhas": "cover"
+  },
+
+  "fundo": "#ffffff",
+  "qualidade": 85,
+
+  "_comentario_webp": "Plataformas de anuncio (Meta, Google) aceitam JPG e PNG, nao WebP. JPG e sempre gerado. Ligue o WebP so se for usar em site ou e-mail.",
+  "gerarWebp": false
+}

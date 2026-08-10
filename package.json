@@ -1,0 +1,14 @@
+{
+  "name": "midia-produtos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Biblioteca de midia de produtos e campanhas com links publicos permanentes via CDN.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node bin/build.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.3"
+  }
+}

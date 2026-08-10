@@ -1,0 +1,2 @@
+Coloque aqui uma subpasta por produto, nomeada com o SKU ou o slug.
+Exemplo: originais/produtos/CAM-AZUL-M/frente.jpg
