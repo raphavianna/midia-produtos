@@ -1,15 +1,1 @@
-{
-  "originais/campanhas/_teste-pipeline/verificacao.jpg": {
-    "hash": "3e7d1ff06853aefe613dee5f3b76e7d96f8c3eda",
-    "ajuste": "cover",
-    "qualidade": 85,
-    "fundo": "#ffffff",
-    "saidas": [
-      "cdn/campanhas/_teste-pipeline/verificacao--quadrado-1x1.jpg",
-      "cdn/campanhas/_teste-pipeline/verificacao--vertical-4x5.jpg",
-      "cdn/campanhas/_teste-pipeline/verificacao--story-9x16.jpg",
-      "cdn/campanhas/_teste-pipeline/verificacao--wide-16x9.jpg",
-      "cdn/campanhas/_teste-pipeline/verificacao--thumb.jpg"
-    ]
-  }
-}
+{}
