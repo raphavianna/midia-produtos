@@ -55,6 +55,11 @@ async function listarTudo(dir) {
 
 const hashDe = (caminho) => createHash('sha1').update(readFileSync(caminho)).digest('hex');
 
+// cdn/ precisa existir mesmo sem nenhuma imagem: o passo de commit do Action
+// referencia esse caminho, e um pathspec inexistente aborta o `git add`.
+mkdirSync(DIR_CDN, { recursive: true });
+writeFileSync(join(DIR_CDN, '.gitkeep'), '');
+
 const cache = existsSync(ARQ_CACHE) ? JSON.parse(readFileSync(ARQ_CACHE, 'utf8')) : {};
 const cacheNovo = {};
 
