@@ -1,1 +1,275 @@
-{}
+{
+  "originais/produtos/0000000000437/01-vestido-manga-longa-floral-preto-51abba5476e49e7c8.jpg": {
+    "hash": "46e15aa29e98099f5fb37db23d639b4ca2acb217",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/01-vestido-manga-longa-floral-preto-51abba5476e49e7c8--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/01-vestido-manga-longa-floral-preto-51abba5476e49e7c8--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/01-vestido-manga-longa-floral-preto-51abba5476e49e7c8--story-9x16.jpg",
+      "cdn/produtos/0000000000437/01-vestido-manga-longa-floral-preto-51abba5476e49e7c8--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/01-vestido-manga-longa-floral-preto-51abba5476e49e7c8--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/02-img_1688-fb1295208acd95165a17412240822892-1024-102.jpg": {
+    "hash": "f669aa95520e99a823cdc72e795ae24aa3005ed8",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/02-img_1688-fb1295208acd95165a17412240822892-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/02-img_1688-fb1295208acd95165a17412240822892-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/02-img_1688-fb1295208acd95165a17412240822892-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/02-img_1688-fb1295208acd95165a17412240822892-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/02-img_1688-fb1295208acd95165a17412240822892-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/03-img_1689-f77dd1ef7f793ef35b17412240820511-1024-102.jpg": {
+    "hash": "2900829d43853c6d4b46ddb2e6bd654b4102238e",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/03-img_1689-f77dd1ef7f793ef35b17412240820511-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/03-img_1689-f77dd1ef7f793ef35b17412240820511-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/03-img_1689-f77dd1ef7f793ef35b17412240820511-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/03-img_1689-f77dd1ef7f793ef35b17412240820511-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/03-img_1689-f77dd1ef7f793ef35b17412240820511-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/04-img_1690-72836f97da26d26ef817412240819604-1024-102.jpg": {
+    "hash": "d9156ba8ed28bbf1bea7797dd5a5882c430b8b09",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/04-img_1690-72836f97da26d26ef817412240819604-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/04-img_1690-72836f97da26d26ef817412240819604-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/04-img_1690-72836f97da26d26ef817412240819604-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/04-img_1690-72836f97da26d26ef817412240819604-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/04-img_1690-72836f97da26d26ef817412240819604-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/05-img_1691-1d13faae48f3e94fad17412240822916-1024-102.jpg": {
+    "hash": "79a717be00ad07e2fd316c93cc48319221446740",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/05-img_1691-1d13faae48f3e94fad17412240822916-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/05-img_1691-1d13faae48f3e94fad17412240822916-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/05-img_1691-1d13faae48f3e94fad17412240822916-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/05-img_1691-1d13faae48f3e94fad17412240822916-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/05-img_1691-1d13faae48f3e94fad17412240822916-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/06-0e5a3265-76164660eba6d6535817412240839390-1024-102.jpg": {
+    "hash": "526dc52d0304d11225e4075dc8fdb0f87aa02a52",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/06-0e5a3265-76164660eba6d6535817412240839390-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/06-0e5a3265-76164660eba6d6535817412240839390-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/06-0e5a3265-76164660eba6d6535817412240839390-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/06-0e5a3265-76164660eba6d6535817412240839390-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/06-0e5a3265-76164660eba6d6535817412240839390-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/07-img_1661-d00583032e5d81981917412240820652-1024-102.jpg": {
+    "hash": "679c23d939b92e9125cd6c5a7c131e8496589bc9",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/07-img_1661-d00583032e5d81981917412240820652-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/07-img_1661-d00583032e5d81981917412240820652-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/07-img_1661-d00583032e5d81981917412240820652-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/07-img_1661-d00583032e5d81981917412240820652-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/07-img_1661-d00583032e5d81981917412240820652-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/08-img_1662-1f252dc369aad79fcb17412240818509-1024-102.jpg": {
+    "hash": "b0bbcc9109781cdafbe932106f523877d40e4b3a",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/08-img_1662-1f252dc369aad79fcb17412240818509-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/08-img_1662-1f252dc369aad79fcb17412240818509-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/08-img_1662-1f252dc369aad79fcb17412240818509-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/08-img_1662-1f252dc369aad79fcb17412240818509-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/08-img_1662-1f252dc369aad79fcb17412240818509-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/09-img_1663-7b816b34ab544374db17412240812607-1024-102.jpg": {
+    "hash": "5f0bfbf96a255d5920ed9fad8731414ebc9d01f0",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/09-img_1663-7b816b34ab544374db17412240812607-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/09-img_1663-7b816b34ab544374db17412240812607-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/09-img_1663-7b816b34ab544374db17412240812607-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/09-img_1663-7b816b34ab544374db17412240812607-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/09-img_1663-7b816b34ab544374db17412240812607-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/10-img_1664-fee9598c2d7741c45617412240816644-1024-102.jpg": {
+    "hash": "f2362b0a8e41c8d90ef59c332c54c4c01d3c92b4",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/10-img_1664-fee9598c2d7741c45617412240816644-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/10-img_1664-fee9598c2d7741c45617412240816644-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/10-img_1664-fee9598c2d7741c45617412240816644-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/10-img_1664-fee9598c2d7741c45617412240816644-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/10-img_1664-fee9598c2d7741c45617412240816644-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/11-0e5a3119-833fdaa5cee7e4629f17412240837439-1024-102.jpg": {
+    "hash": "200a0172961bac2e7ddc909d62d74ed41d51f9b9",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/11-0e5a3119-833fdaa5cee7e4629f17412240837439-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/11-0e5a3119-833fdaa5cee7e4629f17412240837439-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/11-0e5a3119-833fdaa5cee7e4629f17412240837439-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/11-0e5a3119-833fdaa5cee7e4629f17412240837439-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/11-0e5a3119-833fdaa5cee7e4629f17412240837439-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/12-img_1665-760917fe91873a415917412240829360-1024-102.jpg": {
+    "hash": "5d91ba0d6e66e858d44e919d86ebeb655bd32274",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/12-img_1665-760917fe91873a415917412240829360-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/12-img_1665-760917fe91873a415917412240829360-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/12-img_1665-760917fe91873a415917412240829360-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/12-img_1665-760917fe91873a415917412240829360-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/12-img_1665-760917fe91873a415917412240829360-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/13-img_1666-5d49e60a7b73cecb2517412240823515-1024-102.jpg": {
+    "hash": "1bb94f36088cddac396acf99ebccf6a6a97cf5c5",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/13-img_1666-5d49e60a7b73cecb2517412240823515-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/13-img_1666-5d49e60a7b73cecb2517412240823515-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/13-img_1666-5d49e60a7b73cecb2517412240823515-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/13-img_1666-5d49e60a7b73cecb2517412240823515-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/13-img_1666-5d49e60a7b73cecb2517412240823515-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/14-img_1667-a62a829525f74fa5e717412240821480-1024-102.jpg": {
+    "hash": "c04d40acbacaf9787ed5e942e639b66b90c74b4a",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/14-img_1667-a62a829525f74fa5e717412240821480-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/14-img_1667-a62a829525f74fa5e717412240821480-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/14-img_1667-a62a829525f74fa5e717412240821480-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/14-img_1667-a62a829525f74fa5e717412240821480-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/14-img_1667-a62a829525f74fa5e717412240821480-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/15-img_1668-69422213f405f7898617412240823277-1024-102.jpg": {
+    "hash": "0e559f4dc0e8a93511a99f648d6cfb1737f53a9c",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/15-img_1668-69422213f405f7898617412240823277-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/15-img_1668-69422213f405f7898617412240823277-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/15-img_1668-69422213f405f7898617412240823277-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/15-img_1668-69422213f405f7898617412240823277-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/15-img_1668-69422213f405f7898617412240823277-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/16-0e5a3132-925594b631969341f817412240839984-1024-102.jpg": {
+    "hash": "c468e48a1fca4abe533df4d2da0cfce5d8d9c6b0",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/16-0e5a3132-925594b631969341f817412240839984-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/16-0e5a3132-925594b631969341f817412240839984-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/16-0e5a3132-925594b631969341f817412240839984-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/16-0e5a3132-925594b631969341f817412240839984-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/16-0e5a3132-925594b631969341f817412240839984-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/17-img_1669-1db69d6a3d916fc54d17412240822639-1024-102.jpg": {
+    "hash": "e021ea3db5bc0f94d4da74bf74379ee856d2f7a1",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/17-img_1669-1db69d6a3d916fc54d17412240822639-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/17-img_1669-1db69d6a3d916fc54d17412240822639-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/17-img_1669-1db69d6a3d916fc54d17412240822639-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/17-img_1669-1db69d6a3d916fc54d17412240822639-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/17-img_1669-1db69d6a3d916fc54d17412240822639-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/18-img_1670-c0bf114568d6d61ea817412240820030-1024-102.jpg": {
+    "hash": "1cb76dfa342f3b22431a96681ead8d83b79a3abc",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/18-img_1670-c0bf114568d6d61ea817412240820030-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/18-img_1670-c0bf114568d6d61ea817412240820030-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/18-img_1670-c0bf114568d6d61ea817412240820030-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/18-img_1670-c0bf114568d6d61ea817412240820030-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/18-img_1670-c0bf114568d6d61ea817412240820030-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/19-img_1671-b2a7e10d5009f52fc717412240814690-1024-102.jpg": {
+    "hash": "9182fea42716a23544c1bc113fd56d8a1963680e",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/19-img_1671-b2a7e10d5009f52fc717412240814690-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/19-img_1671-b2a7e10d5009f52fc717412240814690-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/19-img_1671-b2a7e10d5009f52fc717412240814690-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/19-img_1671-b2a7e10d5009f52fc717412240814690-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/19-img_1671-b2a7e10d5009f52fc717412240814690-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/20-0e5a3148-b926d80480b848e6b717412240840447-1024-102.jpg": {
+    "hash": "21828af4ba5f7cde8fc8a355db1e88980763ef61",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/20-0e5a3148-b926d80480b848e6b717412240840447-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/20-0e5a3148-b926d80480b848e6b717412240840447-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/20-0e5a3148-b926d80480b848e6b717412240840447-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/20-0e5a3148-b926d80480b848e6b717412240840447-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/20-0e5a3148-b926d80480b848e6b717412240840447-1024-102--thumb.jpg"
+    ]
+  },
+  "originais/produtos/0000000000437/21-img_1672-d28ac45fd6a447020917412240814922-1024-102.jpg": {
+    "hash": "5d97c539b0e267008e9a2bdf1e56802449daa855",
+    "ajuste": "contain",
+    "qualidade": 85,
+    "fundo": "#ffffff",
+    "saidas": [
+      "cdn/produtos/0000000000437/21-img_1672-d28ac45fd6a447020917412240814922-1024-102--quadrado-1x1.jpg",
+      "cdn/produtos/0000000000437/21-img_1672-d28ac45fd6a447020917412240814922-1024-102--vertical-4x5.jpg",
+      "cdn/produtos/0000000000437/21-img_1672-d28ac45fd6a447020917412240814922-1024-102--story-9x16.jpg",
+      "cdn/produtos/0000000000437/21-img_1672-d28ac45fd6a447020917412240814922-1024-102--wide-16x9.jpg",
+      "cdn/produtos/0000000000437/21-img_1672-d28ac45fd6a447020917412240814922-1024-102--thumb.jpg"
+    ]
+  }
+}
