@@ -44,6 +44,32 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nada mudou."
           else
-            git commit -m "Regenera recortes, indice e galeria"
+            git commit -m "Regenera indice"
             git push
+          fi
+
+      # Os recortes ficam so no runner: `cdn/` esta no .gitignore porque as
+      # imagens passaram a ser servidas pela Nuvemshop, nao por jsDelivr.
+      # Quem leva o arquivo ate a loja e `midia:publicar`, que roda na maquina
+      # de quem publica — o token da loja nao vive neste repositorio.
+      #
+      # Sem este aviso o job terminaria verde com a arte parada em
+      # originais/campanhas/, sem nada publicado e sem ninguem saber.
+      - name: Avisar que falta publicar
+        run: |
+          novas=$(find cdn/campanhas -type f 2>/dev/null | wc -l)
+          if [ "$novas" -gt 0 ]; then
+            {
+              echo "### $novas recorte(s) de campanha gerados — ainda NAO publicados"
+              echo ""
+              echo "Eles existem so neste runner. Para levar ate a loja, rode na sua maquina:"
+              echo ""
+              echo '```'
+              echo "npm run build                 # regera os recortes localmente"
+              echo "npm run midia:publicar -- --artes cdn/campanhas   # ensaio"
+              echo "npm run midia:publicar -- --artes cdn/campanhas --confirmar"
+              echo '```'
+              echo ""
+              echo "Os dois ultimos comandos rodam no projeto integracao-nuvemshop."
+            } >> "$GITHUB_STEP_SUMMARY"
           fi
