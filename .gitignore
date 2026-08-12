@@ -2,11 +2,23 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Binario nao entra no repositorio: as imagens sao servidas pelo CDN da
-# Nuvemshop e o que versionamos sao os enderecos (catalogo.json, artes.json).
-# Os LEIA-ME ficam para a pasta nao sumir e para explicar o que vai nela.
-originais/**
-!originais/**/
-!originais/**/LEIA-ME.txt
+# Derivados: gerados pelo build a partir de originais/. Sao descartaveis por
+# definicao — regerar custa um `npm run build`. Nunca entram no repositorio.
 cdn/**
 !cdn/.gitkeep
+
+# Fotos de produto: sao copias do que a Nuvemshop ja serve. Baixa-las duplicava
+# o catalogo dentro do git. Agora o `catalogo.json` guarda so os enderecos.
+originais/produtos/**
+!originais/produtos/LEIA-ME.txt
+
+# originais/campanhas/ NAO esta ignorado, de proposito.
+#
+# E por ali que a arte entra: "Add file -> Upload files" na interface do
+# GitHub dispara o workflow. Ignorar a pasta mataria esse caminho e nao
+# sobraria nenhum outro — a API do GitHub Actions nao aceita upload de
+# arquivo.
+#
+# O preco e que a arte passa por um commit antes de subir para a Nuvemshop, e
+# o blob fica no historico. Fechar isso exige a publicacao rodar dentro do
+# workflow, o que depende do token da loja, que hoje vive no outro repo.
