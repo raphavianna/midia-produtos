@@ -1,3 +1,12 @@
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Binario nao entra no repositorio: as imagens sao servidas pelo CDN da
+# Nuvemshop e o que versionamos sao os enderecos (catalogo.json, artes.json).
+# Os LEIA-ME ficam para a pasta nao sumir e para explicar o que vai nela.
+originais/**
+!originais/**/
+!originais/**/LEIA-ME.txt
+cdn/**
+!cdn/.gitkeep
